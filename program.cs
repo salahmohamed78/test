@@ -26,12 +26,12 @@ namespace eSourcing.Enums
         /// <summary>
         ///
         /// </summary>
-        Societ�DiProfessionisti,
+        SocietàDiProfessionisti,
 
         /// <summary>
         ///
         /// </summary>
-        Societ�DiIngegneria,
+        SocietàDiIngegneria,
 
         /// <summary>
         ///
